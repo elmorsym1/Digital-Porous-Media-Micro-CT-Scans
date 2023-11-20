@@ -9,4 +9,4 @@ The codes include:
 4. Extrating the pores' centeriods corrdinates
 5. Transforming the porous media micro ct scans from .raw format to stack of slices of 2D .png images
 
-For more information please contact the repository owner at elmorsym@mcmaster.ca
+For more information please contact the repository owner at elmorsym777@gmail.com
